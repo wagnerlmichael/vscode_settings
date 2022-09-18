@@ -1,2 +1,6 @@
 #this allows command + enter to shoot the line of code straight to ipython, while keeping regular terminal option
 https://stackoverflow.com/questions/52310689/use-ipython-repl-in-vs-code
+
+
+#I *think* this is what I used to change my line by line binding
+https://stackoverflow.com/questions/58404225/vs-code-move-to-next-line-on-run-ctrl-enter
