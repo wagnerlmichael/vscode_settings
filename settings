@@ -1,0 +1,2 @@
+#this allows command + enter to shoot the line of code straight to ipython, while keeping regular terminal option
+https://stackoverflow.com/questions/52310689/use-ipython-repl-in-vs-code
