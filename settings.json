@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Mariana",
+    // - - - - -
+    // These settings allow for the ipython/command enter setup
+    // - - - - 
+    "macros": { //note this requires macros extension by publisher "geddski"
+        "pythonExecSelectionAndCursorDown": [
+            "python.execSelectionInTerminal",
+            "cursorDown"
+        ]
+    },
+    "python.terminal.launchArgs": [
+        "-m",
+        "IPython",
+        "--no-autoindent"
+    ],
+    // Not sure about all these - pylance is the warning producer
+    "editor.minimap.enabled": false,
+    "python.languageServer": "Pylance",
+    "window.zoomLevel": 1
+}
